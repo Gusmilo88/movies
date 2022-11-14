@@ -1,5 +1,5 @@
 # Integrantes:
 # Gabriela Meza
-# Cristian Amarilla
+# Cristian Amarilla 24 Temperley
 # Maximiliano Cuellar
 # Gustavo Romero
